@@ -117,12 +117,10 @@ channel-show-similar-posts-label = Показывать похожие сооб�
 delete-channel-title = Удалить канал:
 delete-channel-posts-label = Удалить { $count } { $count ->
     [one] сообщение
-    *[few] сообщения
     *[other] сообщений
 }
 move-to-channel-posts-label = Переместить { $count } { $count ->
     [one] сообщение
-    *[few] сообщения
     *[other] сообщений
 } в другой канал
 
@@ -132,7 +130,6 @@ groups-title = Группы
 create-group-button = Создать группу
 group-user-count = { $count } { $count ->
     [one] пользователь
-    *[few] пользователя
     *[other] пользователей
 }
 
