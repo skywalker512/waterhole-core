@@ -173,7 +173,6 @@ user-saved-message = Пользователь сохранен.
 
 delete-user-title = Удалить { $count ->
     [one] пользователя:
-    *[few] { $count } пользователя
     *[other] { $count } пользователей
 }
 keep-user-content-label = Сохранить контент и отметить как анонимный
